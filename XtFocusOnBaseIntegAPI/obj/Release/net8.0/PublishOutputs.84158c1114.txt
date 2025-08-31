@@ -1,0 +1,15 @@
+D:\project\Windows\NBC\New_Req\Focus and Onbase-Intergration\XtFocusOnBaseIntegAPI\.bin\publish\XtFocusOnBaseIntegAPI.exe
+D:\project\Windows\NBC\New_Req\Focus and Onbase-Intergration\XtFocusOnBaseIntegAPI\.bin\publish\appsettings.Development.json
+D:\project\Windows\NBC\New_Req\Focus and Onbase-Intergration\XtFocusOnBaseIntegAPI\.bin\publish\appsettings.json
+D:\project\Windows\NBC\New_Req\Focus and Onbase-Intergration\XtFocusOnBaseIntegAPI\.bin\publish\XtFocusOnBaseIntegAPI.dll
+D:\project\Windows\NBC\New_Req\Focus and Onbase-Intergration\XtFocusOnBaseIntegAPI\.bin\publish\XtFocusOnBaseIntegAPI.deps.json
+D:\project\Windows\NBC\New_Req\Focus and Onbase-Intergration\XtFocusOnBaseIntegAPI\.bin\publish\XtFocusOnBaseIntegAPI.runtimeconfig.json
+D:\project\Windows\NBC\New_Req\Focus and Onbase-Intergration\XtFocusOnBaseIntegAPI\.bin\publish\XtFocusOnBaseIntegAPI.pdb
+D:\project\Windows\NBC\New_Req\Focus and Onbase-Intergration\XtFocusOnBaseIntegAPI\.bin\publish\Microsoft.OpenApi.dll
+D:\project\Windows\NBC\New_Req\Focus and Onbase-Intergration\XtFocusOnBaseIntegAPI\.bin\publish\Newtonsoft.Json.dll
+D:\project\Windows\NBC\New_Req\Focus and Onbase-Intergration\XtFocusOnBaseIntegAPI\.bin\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\project\Windows\NBC\New_Req\Focus and Onbase-Intergration\XtFocusOnBaseIntegAPI\.bin\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\project\Windows\NBC\New_Req\Focus and Onbase-Intergration\XtFocusOnBaseIntegAPI\.bin\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\project\Windows\NBC\New_Req\Focus and Onbase-Intergration\XtFocusOnBaseIntegAPI\.bin\publish\XtDevService.dll
+D:\project\Windows\NBC\New_Req\Focus and Onbase-Intergration\XtFocusOnBaseIntegAPI\.bin\publish\Focus.DatabaseFactory.dll
+D:\project\Windows\NBC\New_Req\Focus and Onbase-Intergration\XtFocusOnBaseIntegAPI\.bin\publish\XtDevService.pdb

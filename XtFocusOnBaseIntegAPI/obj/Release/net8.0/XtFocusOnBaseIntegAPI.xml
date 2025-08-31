@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XtFocusOnBaseIntegAPI</name>
+    </assembly>
+    <members>
+        <member name="P:XtFocusOnBaseIntegAPI.Model.Account.RequestData.PurchaseType">
+            <summary>
+            PurchaseType is a string list-->{"Local","Import"}
+            </summary>
+        </member>
+        <member name="P:XtFocusOnBaseIntegAPI.Model.Account.RequestData.iPaymentType">
+            <summary>
+            PaymentType is a number list-->[{1,OWN},{2,TPA},{3,NEFT},{4,IMPS},{5,RTGS}}      
+            </summary>
+        </member>
+        <member name="P:XtFocusOnBaseIntegAPI.Model.PO.Data.Date__Date">
+            <summary>
+            dd/MM/yyyy format
+            </summary>
+        </member>
+        <member name="P:XtFocusOnBaseIntegAPI.Model.PO.Data.Currency__CurMstr">
+            <summary>
+            currency code as per focus currency master
+            </summary>
+        </member>
+        <member name="P:XtFocusOnBaseIntegAPI.Model.PO.Data.PO_Type">
+            <summary>
+            includes value [ LPO,Agreement,Contract]
+            </summary>
+        </member>
+        <member name="P:XtFocusOnBaseIntegAPI.Model.PO.Body.Expected_Date_of_Service_">
+            <summary>
+            Expected Date of Service is a number list [{0,urgent},{1,"3 days"},{2,"1 Week"},{3,"State exact Date"}] .Pass only number
+            </summary>
+        </member>
+        <member name="P:XtFocusOnBaseIntegAPI.Model.PO.Body.Exact_Date__Date">
+            <summary>
+            dd/MM/yyyy format
+            </summary>
+        </member>
+        <member name="P:XtFocusOnBaseIntegAPI.Model.PV.Data.Date__Date">
+            <summary>
+            dd/MM/yyyy format
+            </summary>
+        </member>
+        <member name="P:XtFocusOnBaseIntegAPI.Model.PV.Data.DueDate__Date">
+            <summary>
+            dd/MM/yyyy format
+            </summary>
+        </member>
+        <member name="P:XtFocusOnBaseIntegAPI.Model.PV.Data.Currency__CurMstr">
+            <summary>
+            currency code as per focus currency master
+            </summary>
+        </member>
+        <member name="P:XtFocusOnBaseIntegAPI.Model.PV.Data.PO_Type">
+            <summary>
+            includes value [ LPO,Agreement,Contract]
+            </summary>
+        </member>
+        <member name="P:XtFocusOnBaseIntegAPI.Model.PV.Data.Supplier_Invoice_Date__Date">
+            <summary>
+            dd/MM/yyyy format
+            </summary>
+        </member>
+        <member name="P:XtFocusOnBaseIntegAPI.Model.PV.Body.Expected_Date_of_Service_">
+            <summary>
+            Expected Date of Service is a number list [{0,urgent},{1,"3 days"},{2,"1 Week"},{3,"State exact Date"}] .Pass only number
+            </summary>
+        </member>
+        <member name="P:XtFocusOnBaseIntegAPI.Model.PV.Body.Exact_Date__Date">
+            <summary>
+            dd/MM/yyyy format
+            </summary>
+        </member>
+        <member name="P:XtFocusOnBaseIntegAPI.Model.PV.Body.PONo">
+             <summary>
+            Purchase order doc no
+             </summary>
+        </member>
+    </members>
+</doc>
